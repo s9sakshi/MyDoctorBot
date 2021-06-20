@@ -1,7 +1,6 @@
 # MyDoctor Bot
-
-This is my Graduation Project ;)  
-My Doctor bot is a diseases diagnosis web application made with flask-python. (See the screenshots)
+ 
+My Doctor bot is a diseases diagnosis web application made with flask-python.
 
 ## Technologies used:
 
@@ -23,5 +22,8 @@ My Doctor bot is a diseases diagnosis web application made with flask-python. (S
 ## Authors
 
 * Sakshi Jagtap
+* Punamtanvi Kshatriya
+* Yashaswi Ghune
+* Samruddhi Jadhav
 
 
