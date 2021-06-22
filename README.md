@@ -1,3 +1,7 @@
+
+#MyDoctorBot
+A healthcare chatbot for disease prediction from symptoms
+
 # MyDoctor Bot
  
 My Doctor bot is a diseases diagnosis web application made with flask-python.
@@ -25,5 +29,6 @@ My Doctor bot is a diseases diagnosis web application made with flask-python.
 * Punamtanvi Kshatriya
 * Yashaswi Ghune
 * Samruddhi Jadhav
+
 
 
